@@ -5,6 +5,8 @@
   "private": true,
   "devDependencies": {
     "@nrwl/js": "15.4.2",
+    "@nrwl/linter": "15.4.2",
+    "@nrwl/next": "15.4.2",
     "@nrwl/nx-cloud": "latest",
     "@nrwl/workspace": "15.4.2",
     "nx": "15.4.2",
